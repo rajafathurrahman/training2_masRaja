@@ -1,4 +1,4 @@
-# training2_masRaja# [Day-2] Load Data to BigQuery via Airbyte
+# Load Data to BigQuery via Airbyte
 
 ## Run Airbyte via Docker
 
