@@ -1,4 +1,4 @@
-# Load Data to BigQuery via Airbyte
+# Load Data via Airbyte
 
 ## Run Airbyte via Docker
 
