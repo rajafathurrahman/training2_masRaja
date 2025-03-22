@@ -61,3 +61,9 @@ docker-compose -f airbyte/docker-compose.yml up
 username: airbyte
 password: password
 ```
+
+# Airbytes add process
+1. We are going to load Corona data from this [url](https://storage.googleapis.com/covid19-open-data/v2/latest/epidemiology.csv) to postgress via airbyte. 
+2. add the source and destination
+3. try to run the airbytes
+4. how going ? this is successfully running ?
